@@ -4,9 +4,7 @@ The Student Report Card Management System is a C++ project that enables school a
 
 ## Gameplay Video
 
-https://github.com/muneeb787/students-report-card-managemant/assets/133331694/6aefefe8-fbad-4e62-80a5-09c3f3f14544
-
-![Watch the video]()
+![Watch the video](https://github.com/muneeb787/students-report-card-managemant/assets/133331694/6aefefe8-fbad-4e62-80a5-09c3f3f14544)
 
 ## Installation
 
